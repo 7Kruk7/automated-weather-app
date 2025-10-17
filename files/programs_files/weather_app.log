@@ -1,7 +1,0 @@
-2025-09-16 09:19:56,872 ERROR: HTTP error occurred: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Krakow&appid=None&units=metric
-2025-09-16 09:20:16,030 ERROR: An error occurred: [Errno 2] No such file or directory: '../wether_app/files/programs_files/test.txt'
-2025-09-16 09:20:38,407 ERROR: HTTP error occurred: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Krakow&appid=None&units=metric
-2025-09-16 16:44:46,371 ERROR: An error occurred: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
-2025-09-17 20:59:40,979 INFO: Weather data for Krakow fetched and saved.
-2025-09-17 20:59:51,840 INFO: "GET /?state=Wo5xAX2PT4Jzk1r76kgeBbDyqqmPMg&code=4/0AVGzR1DIBrRTRSdFqZA01ASUjKfSizowPS4ufFXWbJNo55kK-_BQatz9JcwU7lJP28bKww&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
-2025-09-17 20:59:53,391 INFO: Weather report email sent for Krakow.
