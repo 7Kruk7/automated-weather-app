@@ -42,7 +42,6 @@ class GmailAPIAuthentication:
         self.credentials_path = credentials_path
         self.token_path = token_path
         self.user_id = user_id
-        self.creds: Optional[Credentials] = None
         self.service = None
         self._ensure_authenticated()
 

@@ -5,3 +5,10 @@
 2025-09-17 20:59:40,979 INFO: Weather data for Krakow fetched and saved.
 2025-09-17 20:59:51,840 INFO: "GET /?state=Wo5xAX2PT4Jzk1r76kgeBbDyqqmPMg&code=4/0AVGzR1DIBrRTRSdFqZA01ASUjKfSizowPS4ufFXWbJNo55kK-_BQatz9JcwU7lJP28bKww&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
 2025-09-17 20:59:53,391 INFO: Weather report email sent for Krakow.
+2025-09-22 17:32:04,789 INFO: Weather data for Krakow fetched and saved.
+2025-09-22 17:32:06,351 INFO: Weather report email sent for Krakow.
+2025-10-30 08:26:22,283 INFO: Weather data for Krakow fetched and saved.
+2025-10-30 08:26:39,027 INFO: "GET /?state=O7lZzA9Gmge6KwxruFXUfOfpmSvtSj&code=4/0Ab32j914IAkXWGJgqQopz4n43BVY9rLDyMoHYNOu8aMU-pL3cu6NV40gcs1xREKkrB8vnw&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2025-10-30 08:27:10,360 INFO: Weather data for Krakow fetched and saved.
+2025-10-30 08:29:12,889 INFO: Weather data for Krakow fetched and saved.
+2025-10-30 08:29:14,152 INFO: Weather report email sent for Krakow.
